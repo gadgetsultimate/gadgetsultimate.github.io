@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "The best 1080p monitors for under ₹10,000?"
+description: We aim to bring the best monitors under ₹10,000.
+date:   2017-02-01 10:51:47 +0530
+categories: monitors
+img: bestmonitor.jpg
+color: 1976D2
+author: Calvin
+---
+
+Good quality 1080p monitors in India under ₹10,000 are no longer a distant dream. The only requirement I had when I made it was that the screen should be IPS and a minimum of 18 inches. Here they are:
+<br><br>
+
+### 1) Dell S2216H 21.5inch IPS Monitor (HDMI)
+![Dell monitor]({{site.baseurl}}/images-hq/dellmonitor.jpg)
+
+The Dell S2216H is an effective monitor which offers impressive visual experience through its high quality full HD 1920 x 1080 screen. Armed with enhanced speakers, this monitor delivers premium quality sound. It comes with a dynamic contrast ratio of 1000:1. Moreover, you will face no glares and get access to enhanced viewing angles. It has an aspect ratio of 16:9. It comes with VGA and HDMI ports so that you can connect other media devices with ease.
+
+**[Buy from Flipkart](http://dl.flipkart.com/dl//dell-21-5-inch-full-hd-ips-led-s2216h-monitor/p/itmecyfvrvxrs3xy?pid=MONECYFV5N6HDGAG&affid=calvinw10)
+or [buy from Amazon](http://amzn.to/2lccm85)**
+
+### 2) LG 22MP68 22inch IPS Monitor (HDMI)
+![LG monitor]({{site.baseurl}}/images-hq/lgmonitor.jpg)
+
+The 22MP68 is an IPS Panel (Neo Blade One Technology). The narrow bezel enhances the look and feel. The color response is over 99% SRGB making visuals stunningly beautiful and realistic. The monitor also has has AMD Freesync technology which eliminates tearing from the low frame rate and also screen stuttering as connecting HDMI port.All of these bring that you can enjoy and immerse in game play. The monitor also has black stabilizer which ensures visibility of dark areas when gaming.
+
+**[Buy from Amazon](http://amzn.to/2kfP3fd)**
+
+### 3) Samsung 18.5inch IPS Monitor (HDMI)
+![LG monitor]({{site.baseurl}}/images-hq/samsungmonitor.jpg)
+
+This is another IPS display but the screen size is only a paltry 18.5 inches. Get it because it's cheaper than the rest or don't really bother with it. I would only recommend this as a second screen, nothing else.
+
+**[Buy from Amazon](http://amzn.to/2lcif5d)**
+
+<br><br>
+
+These are the only monitors you should consider buying. Any others have some trade-offs that are just not worth it. Remember, for the best advice on electronics, keep returning to Gadgets Ultimate!

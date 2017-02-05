@@ -1,11 +1,11 @@
 
-title: Karna
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+title: Gadgets Ultimate
+desctiption: The authoritative guide on gadgets. Featuring reviews and buying advice for consumer electronics.
+url: http://gadgetsultimate.tk
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: ""
 
 
 sass:
@@ -26,16 +26,8 @@ compress_html:
 
 highlight: rouge
 
-
-# Tracker
-analytics: UA-83979019-1
-
 # Comments
-disqus-shortname: webjeda-demo
-
-# Contact form
-# Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
-api-token:   
+disqus-shortname: xxx
 
 include: [_pages]
 version: 0.8
